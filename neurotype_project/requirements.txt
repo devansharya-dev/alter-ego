@@ -1,0 +1,8 @@
+# Requirements for neurotype_project
+tensorflow
+streamlit
+pyserial
+scikit-learn
+joblib
+numpy
+pandas
